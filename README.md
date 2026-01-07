@@ -1,4 +1,4 @@
-# Detection and Analysis of Web Attacks in a DMZ Environment
+# Detection and Analysis of Web Authentication Attacks in a DMZ Environment
 
 ## Overview
 Questo progetto simula un’attività tipica di un Security Operations Center (SOC) di livello 1, focalizzata sulla detection e analisi di attività malevole dirette verso un sistema esposto in DMZ.
@@ -37,4 +37,5 @@ Lo scenario include:
 - SOC Level 1 triage
 - False Positive vs True Positive classification
 - MITRE ATT&CK mapping
+
 
